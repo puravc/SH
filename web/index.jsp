@@ -16,7 +16,7 @@
          <s:form action="saveForm" method="post">
              <s:textfield label="Uname" key="username" placeholder="username"/>
              <s:textfield key="email"/>
-             <s:password label="passwordkey" key="password"/>
+             <s:password label="passwordpurav" key="password"/>
             <s:submit/>
         </s:form>
     </body>
